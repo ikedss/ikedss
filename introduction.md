@@ -1,0 +1,3 @@
+- Hello, I’m @ikedss
+- I’m learning Python, Java, JavaScript and HTML at the moment
+- Here is my e-mail for contact: feeblecursedone9@gmail.com
